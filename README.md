@@ -3,8 +3,7 @@
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="GitHub" width="75"> 
 </div>
 
-<h1 align="center"> Hey People, 
- I'm Mrunal</h1>
+<h1 align="center"> Hey People!</h1> 
 
 I see data as a powerful tool to understand and improve the world around us. It’s not just about numbers; it’s about uncovering insights that shape decisions and drive positive change. My focus is on using data to improve lives—whether by enhancing services, empowering communities, or solving real-world problems.
 
