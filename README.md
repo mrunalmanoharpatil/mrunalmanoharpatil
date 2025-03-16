@@ -13,8 +13,9 @@ I’m passionate about connecting data to human outcomes and using it to make sm
 
 I’m graduating in March 2025 and actively seeking full-time opportunities where I can contribute my skills to a team dedicated to leveraging data for meaningful change and creating solutions that truly impact lives.
 
-**Reach out to me:** [mrunalmmpatil@gmail.com](mailto:mrunalmmpatil@gmail.com) | <br>
-**LinkedIn:** [linkedin.com/in/patil-mrunal](https://www.linkedin.com/in/patil-mrunal) |   <br>
+📩 **Reach out to me:** <br>
+**Email:** [mrunalmmpatil@gmail.com](mailto:mrunalmmpatil@gmail.com)  <br>
+**LinkedIn:** [linkedin.com/in/patil-mrunal](https://www.linkedin.com/in/patil-mrunal)  <br>
 **My Website:** [mrunalmpatil.wixsite.com/mrunalmpatil](https://mrunalmpatil.wixsite.com/mrunalmpatil)
 
 <!--GITHUB STREAK-->
