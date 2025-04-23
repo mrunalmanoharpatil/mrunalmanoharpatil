@@ -11,7 +11,7 @@ In my experience, data isn’t just for business—it’s for creating impact. W
 
 I’m passionate about connecting data to human outcomes and using it to make smarter, more impactful decisions. I aim to bring data-driven solutions that not only solve problems but also improve lives.
 
-I’m graduating in March 2025 and actively seeking full-time opportunities where I can contribute my skills to a team dedicated to leveraging data for meaningful change and creating solutions that truly impact lives.
+I graduated in March 2025 and actively seeking full-time opportunities where I can contribute my skills to a team dedicated to leveraging data for meaningful change and creating solutions that truly impact lives.
 
 📩 **Reach out to me:** <br>
 **Email:** [mrunalmmpatil@gmail.com](mailto:mrunalmmpatil@gmail.com)  <br>
